@@ -1,0 +1,184 @@
+body{
+	font-family: century gothic;
+	background-color: black;
+	-moz-background-size: 100%; 
+    -webkit-background-size: 100%;
+    -o-background-size: 100%; 
+    background-size: 100%
+
+}
+.navigation {
+	color: white;
+	background-color: #241d1de2;
+	text-align: center;
+	font-size: 30px;
+}
+
+}
+.navigation ul {
+	list-style-type: none;
+	color: white;
+}
+.navigation li {
+	display: inline;
+	padding: 50px;
+}
+.mheader {
+	color: grey;
+	text-align: center;
+}
+.h1header{
+	color: white;
+}
+.basics-information {
+	background-color: #241d1de2;
+	text-align: center;
+	max-width: 60%;
+	margin-left: 20%;
+}
+.basics-information p {
+	padding: 0px 10px 30px 10px;
+}
+.basics-hrefs h2 {
+	color: grey;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+	color: white;
+	transition: 1s;
+}
+a:hover {
+	color: grey;
+}
+
+.navigation1 {
+
+}
+.container-1 {
+	display: flex;
+	max-width: 100%;
+	position: relative;
+	z-index: 1;
+
+
+}
+.container-1 div {
+	margin: 15px;
+}
+.pepega  {
+	color: grey;
+	text-align: center;
+	position: absolute;
+	opacity: 0;
+	padding-left: 90px;
+	padding-top: 200px;
+	z-index: 0;
+
+
+
+}
+.container-1 div:hover .pepega { 
+	opacity: 1;
+	transition-timing-function: ease;
+	transition-duration: 1s;
+	text-align: center;
+	padding-top: 190px;
+
+}
+.pepega h2 {
+	padding: 20px 15px 20px 15px;
+	background-color: black;
+	color: white;
+
+}
+.basics-information {
+	color: grey;
+	text-align: center;
+}
+div.text-href1 {
+	width: 400px;
+	height: 350px;
+	background-image: url("images/gigahrush.jpg");
+	max-width: 400px;
+	background-size: 150%;
+	-moz-transition: all 1s ease-out;
+ 	-o-transition: all 1s ease-out;
+ 	-webkit-transition: all 1s ease-out;
+
+}
+div.text-href2 {
+	width: 400px;
+	height: 350px;
+	background-image: url("images/citizens.png");
+	-moz-transition: all 1s ease-out;
+ 	-o-transition: all 1s ease-out;
+ 	-webkit-transition: all 1s ease-out;
+}
+div.text-href3 {
+	width: 400px;
+	height: 350px;
+	background-image: url("images/samosbor.jpg");
+	background-size: 150%;
+	-moz-transition: all 1s ease-out;
+ 	-o-transition: all 1s ease-out;
+ 	-webkit-transition: all 1s ease-out;
+}
+div.text-href4 {
+	width: 400px;
+	height: 350px;
+	background-image: url("images/party.jpg");
+	-moz-transition: all 1s ease-out;
+ 	-o-transition: all 1s ease-out;
+ 	-webkit-transition: all 1s ease-out;
+}
+div.text-href5 {
+	width: 400px;
+	height: 350px;
+	background-image: url("images/likvidatori.jpg");
+	background-size: 130%;
+	-moz-transition: all 1s ease-out;
+ 	-o-transition: all 1s ease-out;
+ 	-webkit-transition: all 1s ease-out;
+	
+}
+div.text-href6 {
+	width: 400px;
+	height: 350px;
+	background-image: url("images/sliz.jpg");
+	background-size: 140%;
+	-moz-transition: all 1s ease-out;
+ 	-o-transition: all 1s ease-out;
+ 	-webkit-transition: all 1s ease-out;
+
+}
+div.text-href1:hover {
+	-webkit-transform: scale(1.05);
+ 	-moz-transform: scale(1.05);
+ 	-o-transform: scale(1.05);
+}
+div.text-href2:hover {
+	-webkit-transform: scale(1.05);
+ 	-moz-transform: scale(1.05);
+ 	-o-transform: scale(1.05);
+}
+div.text-href3:hover {
+	-webkit-transform: scale(1.05);
+ 	-moz-transform: scale(1.05);
+ 	-o-transform: scale(1.05);
+}
+div.text-href4:hover {
+	-webkit-transform: scale(1.05);
+ 	-moz-transform: scale(1.05);
+ 	-o-transform: scale(1.05);
+}
+div.text-href5:hover {
+	-webkit-transform: scale(1.05);
+ 	-moz-transform: scale(1.05);
+ 	-o-transform: scale(1.05);
+}
+div.text-href6:hover {
+	-webkit-transform: scale(1.05);
+ 	-moz-transform: scale(1.05);
+ 	-o-transform: scale(1.05);
+}
