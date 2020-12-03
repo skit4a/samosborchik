@@ -38,36 +38,8 @@ p {
 	display: inline;
 	padding: 50px;
 }
-.basics-hrefs {
+.text-main {
 	text-align: center;
-}
-.basics {
-color: white;
-text-align: center;
-}
-.basics h2 {
-	font-size: 40px;
-}
-.basics p {
-	color: grey;
-	font-size: 25px;
-}
-.box {
-	text-align: center;
-	margin-top: 50px;
-	margin-bottom: 50px;
-}
-.box-image {
-	transition: 1s;
-}
-.box-image:hover {
-	filter:blur(2px);
-}
-.box hr {
-	border: none; 
-    background-color: grey; 
-    color: grey; 
-    height: 2px;
 }
 .copyright-link {
 	text-align: right;
