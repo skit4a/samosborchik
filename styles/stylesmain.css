@@ -60,6 +60,7 @@ a:hover {
 	max-width: 100%;
 	position: relative;
 	z-index: 1;
+	padding-left: 19px;
 
 
 }
@@ -187,4 +188,8 @@ hr {
     background-color: grey; 
     color: grey; 
     height: 2px;
+}
+.copyright-link {
+	text-align: right;
+	
 }

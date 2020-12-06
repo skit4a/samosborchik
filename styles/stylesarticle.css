@@ -39,9 +39,12 @@ p {
 	padding: 50px;
 }
 .text-main {
-	text-align: center;
+	text-align: left;
 }
 .copyright-link {
 	text-align: right;
 	transition: 1s;
+}
+.contents {
+	text-align: center;
 }
